@@ -18,9 +18,9 @@ Feito com **Oh My Posh** rodando no **PowerShell 7.6.3**, esse tema é uma mistu
 Queria algo que fosse mais "pessoal" sabe? Profissional, claro, mas com aquela vibe única de quem fez com carinho. E é isso que você vai ver aqui.
 
 ## Preview
-<img width="1213" height="638" alt="image" src="https://github.com/user-attachments/assets/264906e5-4f4d-4936-a4fa-07b75f9b339e" />
+<img width="1365" height="735" alt="image" src="https://github.com/user-attachments/assets/f52eddd8-2642-48f9-9cfe-87a2046c7291" />
 
-<img width="1214" height="573" alt="image" src="https://github.com/user-attachments/assets/4c9fb6f4-c558-44f6-8882-32b888337036" />
+<img width="1364" height="568" alt="image" src="https://github.com/user-attachments/assets/8f5fe2ac-4ef8-437b-89d1-f7a8b72780c1" />
 ## Componentes
 
 - **Oh My Posh** - Prompt personalizado com chamas
