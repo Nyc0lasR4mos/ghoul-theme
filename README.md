@@ -4,8 +4,9 @@ Um tema personalizado para terminal com vibe Tokyo Ghoul, inspirado no Ulquiorra
 
 ## Preview
 
-![Terminal Preview](screenshots/terminal-preview.png)
-![FastFetch Preview](C:\Users\Nycoteba\Projects\ghoul-theme\screenshots\fastfetch-preview.png)
+![Terminal Preview](<img width="1213" height="638" alt="terminal-preview png" src="https://github.com/user-attachments/assets/4e831736-b2e6-4ad1-abc2-e8640aa8454a" />)
+![FastFetch Preview](<img width="1214" height="573" alt="fastfetch-preview png" src="https://github.com/user-attachments/assets/87339431-2893-4b1c-b9e3-357520105f5a" />
+)
 
 ## Componentes
 
