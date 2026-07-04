@@ -1,6 +1,15 @@
 ## Ghoul Theme
 
-Um tema personalizado para terminal com vibe Tokyo Ghoul, inspirado no Ulquiorra de Bleach.
+> *"Um terminal que carrega a essência do que eu gosto, feito linha por linha."*
+
+E aí! Depois de muito tempo usando terminais genéricos, decidi criar algo **meu**. Algo que refletisse minha personalidade e meus gostos — e foi assim que nasceu o **Ghoul Theme**.
+
+Feito com **Oh My Posh** rodando no **PowerShell 7.6.3**, esse tema é uma mistura de:
+-  Estética profissional e limpa
+-  Inspiração em animes que eu curto (Tokyo Ghoul, Bleach...)
+-  Detalhes pessoais que fazem diferença
+
+Queria algo que fosse mais "pessoal" sabe? Profissional, claro, mas com aquela vibe única de quem fez com carinho. E é isso que você vai ver aqui.
 
 ## Preview
 <img width="1213" height="638" alt="image" src="https://github.com/user-attachments/assets/264906e5-4f4d-4936-a4fa-07b75f9b339e" />
