@@ -1,5 +1,11 @@
 ## 𝕲𝖍𝖔𝖚𝖑 𝕿𝖍𝖊𝖒𝖊
 
+[![PowerShell](https://img.shields.io/badge/PowerShell-7.6.3-blue?logo=powershell)](https://github.com/PowerShell/PowerShell)
+[![Oh My Posh](https://img.shields.io/badge/Oh_My_Posh-Theme-red?logo=powershell)](https://ohmyposh.dev/)
+[![FastFetch](https://img.shields.io/badge/FastFetch-2.65.2-green)](https://github.com/fastfetch-cli/fastfetch)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Windows](https://img.shields.io/badge/Windows-11-blue?logo=windows)](https://www.microsoft.com/windows)
+
 > *"Um terminal que carrega a essência do que eu gosto, feito linha por linha."*
 
 E aí! Depois de muito tempo usando terminais genéricos, decidi criar algo **meu**. Algo que refletisse minha personalidade e meus gostos — e foi assim que nasceu o **Ghoul Theme**.
