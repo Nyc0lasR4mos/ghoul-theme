@@ -82,10 +82,6 @@ MIT License - Sinta-se livre para usar e modificar!
 ASCII art do Ulquiorra baseado em arte da comunidade
 Tema inspirado em Tokyo Ghoul e Bleach
 
+**Nycolas Ramos**
 
-### 5. Inicializar o Git
-
-```powershell
-git init
-git add .
-git commit -m "Initial commit: Ghoul Theme"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=7c1919)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=7c1919)](https://github.com/Nyc0lasR4mos)
