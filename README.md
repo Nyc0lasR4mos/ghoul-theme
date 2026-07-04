@@ -1,4 +1,4 @@
-## Ghoul Theme
+## 𝕲𝖍𝖔𝖚𝖑 𝕿𝖍𝖊𝖒𝖊
 
 > *"Um terminal que carrega a essência do que eu gosto, feito linha por linha."*
 
