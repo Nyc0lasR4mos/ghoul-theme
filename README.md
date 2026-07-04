@@ -3,11 +3,9 @@
 Um tema personalizado para terminal com vibe Tokyo Ghoul, inspirado no Ulquiorra de Bleach.
 
 ## Preview
-<img width="1214" height="573" alt="image" src="https://github.com/user-attachments/assets/4c9fb6f4-c558-44f6-8882-32b888337036" />
-
 <img width="1213" height="638" alt="image" src="https://github.com/user-attachments/assets/264906e5-4f4d-4936-a4fa-07b75f9b339e" />
 
-
+<img width="1214" height="573" alt="image" src="https://github.com/user-attachments/assets/4c9fb6f4-c558-44f6-8882-32b888337036" />
 ## Componentes
 
 - **Oh My Posh** - Prompt personalizado com chamas
