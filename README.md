@@ -52,7 +52,7 @@ C:\Users\SEU-USUARIO.config\fastfetch\
 
 ### 5. Recarregar
 
-```powershell
+``powershell
 & $PROFILE
 
 ## Funcionalidades
