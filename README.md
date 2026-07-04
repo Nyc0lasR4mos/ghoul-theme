@@ -3,10 +3,10 @@
 Um tema personalizado para terminal com vibe Tokyo Ghoul, inspirado no Ulquiorra de Bleach.
 
 ## Preview
+<img width="1214" height="573" alt="image" src="https://github.com/user-attachments/assets/4c9fb6f4-c558-44f6-8882-32b888337036" />
 
-![Terminal Preview](<img width="1213" height="638" alt="terminal-preview png" src="https://github.com/user-attachments/assets/4e831736-b2e6-4ad1-abc2-e8640aa8454a" />)
-![FastFetch Preview](<img width="1214" height="573" alt="fastfetch-preview png" src="https://github.com/user-attachments/assets/87339431-2893-4b1c-b9e3-357520105f5a" />
-)
+<img width="1213" height="638" alt="image" src="https://github.com/user-attachments/assets/264906e5-4f4d-4936-a4fa-07b75f9b339e" />
+
 
 ## Componentes
 
