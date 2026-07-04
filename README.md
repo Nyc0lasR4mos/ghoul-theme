@@ -52,8 +52,8 @@ C:\Users\SEU-USUARIO.config\fastfetch\
 
 ### 5. Recarregar
 
-``powershell
-& $PROFILE
+`powershell
+& $PROFILE`
 
 ## Funcionalidades
 Prompt com separadores em chamas 
